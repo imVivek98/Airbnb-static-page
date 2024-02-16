@@ -1,0 +1,77 @@
+.image-logo{
+    width:80px;
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+
+.navbar{
+    width: 100vw;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.main-image{
+    width: 90vw;
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    height: 40vw;
+    
+}
+
+.main-info{
+    padding-left: 60px;
+    padding-top: 10px;
+    width: 20rem;
+
+}
+
+.cardimages{
+    width: 200px;
+    height:300px;
+    border-radius: 10px;
+}
+
+.star-image{
+    width: 15px;
+    height: 15px;
+}
+
+.card{
+    width: 80vw;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.gray{
+    color: gray;
+}
+
+.dog-images{
+    height:200px;
+    width: 200px;
+    position: relative;
+}
+
+.places-card{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 6rem;
+    margin-left: 3rem;
+}
+
+.sold-out{
+    position: relative;
+    top:2rem;
+    background-color: rgb(233, 224, 224);
+    color: black;
+    width: 6rem;
+    padding-left: 1rem;
+    padding-top: 2px;
+    height: 1.3rem;
+    border-radius: 5px;
+    
+}
